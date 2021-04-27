@@ -1,3 +1,12 @@
+# Chest X-ray:
+
+![Chest X-ray](https://github.com/Mashfiq137/Images/blob/master/499A1.JPG)
+
+
+# View Positions: 
+
+![View Positions](https://github.com/Mashfiq137/Images/blob/master/499final.JPG)
+
 # Classes:
 * COPD Signs
 * Scoliosis
@@ -10,8 +19,6 @@
 * Hiatal Hernia
 * Vascular Hilar Enlargement
 * Calcified Granuloma
-
-
 
 
 # COPD Signs:  
@@ -64,7 +71,7 @@ Atelectasis can make breathing difficult, particularly if you already have lung 
 # Callus Rib fractures:
 **Callus Rib fractures are most common traumatic chest injury.They are mostly important for their associated morbidity including pneumothorax, hemothorax, lacerations of the liver or spleen, pneumonia or atelectasis from splinting.** Rib fractures classically take at least 6 weeks to heal, some lasting for up to 6 months before completely pain free. As the rib ends become displaced over time and bony callus begins to form, the fracture may become more evident on follow-up examination. Callus formation may produce nodular densities in the rib at the site of healing which should not be confused for a pulmonary nodule.
 
-# Kyphosis- 
+# Kyphosis: 
 
 **Kyphosis is an exaggerated, forward rounding of the back.** It can occur at any age but is most common in older women.
 

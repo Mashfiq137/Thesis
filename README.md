@@ -1,4 +1,18 @@
-# Classes
+# Classes:
+* COPD Signs
+* Scoliosis
+* Air Trapping
+* Aortic Elongation
+* Pleural Effusion
+* Laminar Atelectasis
+* Callus Rib Fractures
+* Kyphosis
+* Hiatal Hernia
+* Vascular Hilar Enlargement
+* Calcified Granuloma
+
+
+
 
 # COPD Signs:  
 
